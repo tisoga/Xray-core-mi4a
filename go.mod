@@ -1,4 +1,4 @@
-module github.com/xtls/xray-core/tree/v1.4.5
+module github.com/xtls/xray-core
 
 go 1.17
 
